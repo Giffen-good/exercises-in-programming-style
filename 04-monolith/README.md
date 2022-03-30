@@ -11,3 +11,4 @@ Possible names:
 - Monolith
 - Labyrinth
 - Brain dump
+- Spaghetti-style
